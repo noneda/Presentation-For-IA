@@ -1,15 +1,14 @@
 {
-  "name": "Presentation IA´s",
-  "version": "1.0.0",
-  "main": "src/index.html",
+  "name": "presentation-ia",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "test": "src/index.html"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "keywords": [],
-  "author": "noneda",
-  "license": "ISC",
-  "description": "Presentation for IA",
-  "dependencies": {
-    "reveal.js": "^5.1.0"
+  "devDependencies": {
+    "vite": "^5.3.4"
   }
 }
