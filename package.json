@@ -1,0 +1,15 @@
+{
+  "name": "Presentation IA´s",
+  "version": "1.0.0",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "src/index.html"
+  },
+  "keywords": [],
+  "author": "noneda",
+  "license": "ISC",
+  "description": "Presentation for IA",
+  "dependencies": {
+    "reveal.js": "^5.1.0"
+  }
+}
